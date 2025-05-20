@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-/* eslint-disable no-undef */
+
 
 import { useState } from "react";
 import  InputBox  from "./components/InputBox";
